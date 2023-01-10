@@ -1,0 +1,66 @@
+.image {
+height:140px;
+width: 140px;
+margin-right: 20px;
+-webkit-clip-path: circle(50% at 50% 50%); clip-path: circle(50% at 50% 50%);
+
+}
+
+.user-content{
+margin: 10px 0;
+padding: 20px;
+background-image: linear-gradient(to bottom right, #72FFB6, #10D164);
+border-radius: 8px;
+box-shadow: 4px 8px 10px rgba(0, 0, 0, 0.281);
+}
+.img-and-name h3 {
+    font-size: 20px;
+    font-weight: 800;
+    color:  #DD2476;
+}
+.email h4{
+    font-size: 19px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+.email{
+    margin: 14px 0;
+}
+.icon{
+    font-size: 20px;
+    margin-right: 12px;
+}
+.gender h3{
+    font-size: 18px;
+    font-weight: 600;
+}
+.address h5{
+    font-weight: 600;
+    font-size: 19px;
+}
+.all-details{
+    margin-left: 20px;
+    margin-top: 40px;
+}
+.btns .more{
+   background-image: linear-gradient(to bottom right, #FF512F, #DD2476);
+border: none;
+width: 140px;
+height: 34px;
+border-radius: 4px;
+color: white;
+font-weight: bold;
+font-size: 16px;
+margin-top: 20px;
+}
+.salary{
+    background-image: linear-gradient(to bottom right, #FF3E9D, #0E1F40);
+    margin-left: 20px !important;
+    width: 140px;
+height: 34px;
+border-radius: 4px;
+color: white;
+font-weight: bold;
+font-size: 16px;
+border: none;
+}
